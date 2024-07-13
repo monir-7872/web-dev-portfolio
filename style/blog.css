@@ -1,0 +1,53 @@
+/* navigation ber */
+nav>ul>li {
+    display:inline;
+    padding: 10px;
+    color: #baa7a7;
+   
+}
+nav>h1 {
+    font-size: 60px;
+
+}
+nav>ul>li>a {
+    text-decoration: none;
+    color: black;
+    margin: 0px;
+
+}
+.fact{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 80px;
+}
+.same{
+    background-color: rgb(253, 110, 10);
+    color: white;
+    font-family: open sans;
+    padding: 10px 20px;
+    font-size: larger;
+    border-radius: 5px;
+};
+/* Banner */
+.content {
+    font-size: larger;
+    color:rgb(0, 0, 0);
+    width: 40px;
+    margin: auto;
+
+}
+.description {
+    font-size: small;
+    color: rgb(29, 28, 28);
+
+}
+.banner {
+    max-width: 200px;
+     width: 200px;
+}
+.bodmas {
+    display: flex;
+    justify-content: space-between;
+
+}
